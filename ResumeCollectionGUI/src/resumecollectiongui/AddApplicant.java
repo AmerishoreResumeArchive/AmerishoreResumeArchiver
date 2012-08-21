@@ -4,7 +4,7 @@ package resumecollectiongui;
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-
+//hi kyle
 
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
