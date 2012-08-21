@@ -5,6 +5,7 @@ package resumecollectiongui;
  * and open the template in the editor.
  */
 //hi kyle
+//hello there!
 
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
